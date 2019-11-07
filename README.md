@@ -4,6 +4,7 @@ Repositorio con las instrucciones básicas de Vectores y Matrices haciendo uso d
 De acuerdo a la exposición presentada en clase por el equipo 1.
 
 -Jonathan Martiñón
+
 -Jesús Tapia
 
 Sitio online para scala:
