@@ -1,4 +1,4 @@
-# Introduccion_a_BREEZE
+# Introduccion a BREEZE
 
 Repositorio con las instrucciones básicas de Vectores y Matrices haciendo uso de la biblioteca BREEZE.
 De acuerdo a la exposición presentada en clase por el equipo 1.
